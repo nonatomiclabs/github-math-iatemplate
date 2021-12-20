@@ -1,0 +1,10 @@
+.hashtag {
+	color: #555555;
+	border: 0.5px solid #e6e6e6;
+	border-radius: 22px;
+	background-color:  #f1f1f1;
+	padding: 3px 9px;
+	margin-right: 10px;
+	font-family: monospace;
+	font-size: smaller;
+}
